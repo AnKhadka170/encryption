@@ -1,6 +1,6 @@
 // Name: Anu Khadka
 // Email ID: akhadka@cnm.edu
-// Program Name: Project4
+// Program Name: Encryption/Decryption
 
 #include<iostream>
 #include<string>
